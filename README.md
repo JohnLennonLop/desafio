@@ -1,0 +1,1 @@
+Eu rodei esse projeto pelo apache mesmo e usei o mysql, só baixar o projeto e fazer a criação das nabelas que estão no arquivo de database, eu só testei direto pelo mysql. Qualquer dúvida é só chamar.
