@@ -19,7 +19,7 @@ function mensagem($texto, $tipo){
 function calcularStatusAnuidade($dataFiliacao, $pgFeito) {
    
     if ($pgFeito) {
-        return 'Pagamento Feito';
+        return 'Anuidade paga';
     }
 
     $anoAtual = date('Y');
